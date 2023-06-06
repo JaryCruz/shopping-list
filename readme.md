@@ -1,0 +1,1 @@
+Simple app that create a shopping list and stores it in local storage.
